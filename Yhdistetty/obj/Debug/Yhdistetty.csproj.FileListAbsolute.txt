@@ -1,0 +1,6 @@
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\bin\Debug\Yhdistetty.exe.config
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\obj\Debug\Yhdistetty.csprojResolveAssemblyReference.cache
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\bin\Debug\Yhdistetty.exe
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\bin\Debug\Yhdistetty.pdb
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\obj\Debug\Yhdistetty.exe
+D:\dev\yhdistetty\Yhdistetty\Yhdistetty\obj\Debug\Yhdistetty.pdb
